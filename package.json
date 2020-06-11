@@ -1,0 +1,23 @@
+{
+  "name": "vpncm",
+  "version": "1.0.0",
+  "description": "client manager for tvpn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickveliki/vpncm.git"
+  },
+  "keywords": [
+    "vpn",
+    "client"
+  ],
+  "author": "nickveliki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickveliki/vpncm/issues"
+  },
+  "homepage": "https://github.com/nickveliki/vpncm#readme"
+}
